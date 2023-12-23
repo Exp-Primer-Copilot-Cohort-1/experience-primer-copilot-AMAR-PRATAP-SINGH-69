@@ -1,2 +1,2 @@
-//create live server
+//Create live server
 //create package.json
